@@ -1,0 +1,4 @@
+php-mime-mail-parser is fork of http://code.google.com/p/php-mime-mail-parser
+It works well for small situation. We are trying to use to crunch huge amount of email accounts with different attachment types.
+
+The code has been refactored and added back.
